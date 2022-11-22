@@ -1,0 +1,8 @@
+{
+    "anuncios": [{"id":1,"titulo":"Davina","transaccion":"Scampion","descripcion":"dscampion0@zimbio.com","precio":22667,"cantPuertas":5,"cantKms":191649,"cantPotencia":68},
+    {"id":2,"titulo":"Hetti","transaccion":"McLanaghan","descripcion":"hmclanaghan1@economist.com","precio":157440,"cantPuertas":4,"cantKms":26915,"cantPotencia":129},
+    {"id":3,"titulo":"Ives","transaccion":"Foffano","descripcion":"ifoffano2@cnet.com","precio":160838,"cantPuertas":4,"cantKms":196273,"cantPotencia":248},
+    {"id":4,"titulo":"Lana","transaccion":"Pettitt","descripcion":"lpettitt3@biblegateway.com","precio":137601,"cantPuertas":2,"cantKms":51329,"cantPotencia":162},
+    {"id":5,"titulo":"Cris","transaccion":"Gouny","descripcion":"cgouny4@wikispaces.com","precio":1016,"cantPuertas":2,"cantKms":88517,"cantPotencia":108}]
+}
+
